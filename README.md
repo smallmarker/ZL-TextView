@@ -1,3 +1,3 @@
 # ZL-TextView
-![Image text](https://raw.githubusercontent.com/smallmarker/PieView/master/img-folder/pieview%402x.png)
+![Image text](https://github.com/smallmarker/ZL-TextView/blob/master/img-folder/test%402x.png)
 
